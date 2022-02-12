@@ -10,4 +10,4 @@ Fixing any errors and removing redundant code from the index.html and style.css 
 
 ### * Main section with three articles
 
-### * Aside
+* ### Aside
